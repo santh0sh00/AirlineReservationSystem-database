@@ -108,8 +108,8 @@ Open a pull request
 
 
 ✉️ Contact
-Author: Your Name
+Author: santhosh kumar gudla
 
-Email: your.email@example.com
+Email: santhoshkumargudla0@gmail.com
 
-LinkedIn/GitHub: your links here
+LinkedIn: https://www.linkedin.com/in/santhosh-kumar-gudla-515770252/
